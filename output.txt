@@ -1,0 +1,8 @@
+javac Project1.java
+
+java Project1 1003 
+Emp No. Emp Name        Department      Designation     Salary
+1003    Rahul           Acct            Clerk           29000
+
+java Project1 111 
+There is no employee with empid : 111
